@@ -23,7 +23,7 @@ This project demonstrates **React fundamentals, component structure, state manag
 ##  How to Run
 1. Clone this repository:
 ```bash
-git clone https://github.com/YourUsername/OnlineShop.git
+git clone https://github.com/bengalqueen/BgColorChanger.git
 
 2. npm run dev
 
